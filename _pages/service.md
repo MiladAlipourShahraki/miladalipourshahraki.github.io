@@ -13,7 +13,7 @@ My professional experience and service are listed below.
 
 Journal Peer Reviewer
 ======
-IEEE Transactions on Systems, Man, and Cybernetics: Systems (**Q1** - **Impact Factor: 13.451**) (**1**)
+IEEE Transactions on Systems, Man, and Cybernetics: Systems (**Q1** - **Impact Factor: 13.451**) (**1**) <br>
 IEEE/ASME Transactions on Mechatronics (**Q1** - **Impact Factor: 5.303**) (**4**)
 ISA Transactions (**Q1** - **Impact Factor: 5.468**) (**2**)
 Automatica (**Q1** - **Impact Factor: 5.944**) (**1**)
