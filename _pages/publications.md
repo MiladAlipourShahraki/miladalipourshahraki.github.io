@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My publications and current research are below.
+My publications and current research are below. You can also find my publications <b><a href="https://scholar.google.com/citations?hl=en&user=PvSW_5sAAAAJ&view_op=list_works&sortby=pubdate" style="text-decoration:none; color:#2F4F4F">here.</a></u>
 
 {% include base_path %}
 
