@@ -13,24 +13,16 @@ A summary of my languages and skills is listed below.
 
 Languages
 ======
-English (Fluent)
-Persian (Native)
+English (Fluent) <br> Persian (Native)
 
 Software Skills
 ======
-MATLAB and Simulink
-\LaTeX{}
-Microsoft Office
-C++
-LabVIEW
-SolidWorks
-AutoCAD
-Adobe Photoshop
+MATLAB and Simulink <br> LaTeX <br> Microsoft Office <br> C++ <br> LabVIEW <br> SolidWorks <br> AutoCAD <br> Adobe Photoshop
 
 Operating Systems
 ======
-Microsoft Windows - IOS - Android
+Microsoft Windows <br> IOS <br> Android
   
 Hardware Skills
 ======
-PC Hardware Assembly - Electromechanical Systems' Repair and Upgrade
+PC Hardware Assembly <br> Electromechanical Systems' Repair and Upgrade
