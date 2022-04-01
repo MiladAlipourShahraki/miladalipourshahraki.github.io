@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Contact"
-permalink: /contact/
+title: "Skills"
+permalink: /skills/
 author_profile: true
 redirect_from:
   - /resume
