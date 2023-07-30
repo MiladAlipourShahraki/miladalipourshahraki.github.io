@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A summary of my languages and skills is listed below.
+A summary of my skills is listed below.
 
 {% include base_path %}
 
@@ -17,12 +17,12 @@ English (Fluent) <br> Persian (Native)
 
 Software Skills
 ======
-MATLAB and Simulink <br> LaTeX <br> Microsoft Office <br> C++ <br> LabVIEW <br> SolidWorks <br> AutoCAD <br> Adobe Photoshop
+Python <be> MATLAB and Simulink <br> LaTeX <br> C++ <br> Microsoft Office <br> LabVIEW <br> SolidWorks <br> AutoCAD <br> Adobe Photoshop
 
 Operating Systems
 ======
-Microsoft Windows <br> IOS <br> Android
-  
+MacOS <br> Microsoft Windows <br> IOS <br> Android
+
 Hardware Skills
 ======
 PC Hardware Assembly <br> Electromechanical Systems' Repair and Upgrade
