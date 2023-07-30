@@ -17,7 +17,7 @@ English (Fluent) <br> Persian (Native)
 
 Software Skills
 ======
-Python <be> MATLAB and Simulink <br> LaTeX <br> C++ <br> Microsoft Office <br> LabVIEW <br> SolidWorks <br> AutoCAD <br> Adobe Photoshop
+Python <br> MATLAB and Simulink <br> LaTeX <br> C++ <br> Microsoft Office <br> LabVIEW <br> SolidWorks <br> AutoCAD <br> Adobe Photoshop
 
 Operating Systems
 ======
