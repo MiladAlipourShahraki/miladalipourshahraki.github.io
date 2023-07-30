@@ -21,14 +21,14 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
   
-  - title: "Skills"
-    url: /skills/
+  #- title: "Skills"
+  #  url: /skills/
     
   - title: "Service"
     url: /service/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
