@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.Sc. and M.Sc. degrees in Mechanical Engineering from Fasa University, Fars, Iran, in 2017, and the University of Isfahan, Iran, in 2020, respectively. Currently, I am pursuing my Ph.D. in Electrical Engineering at Northeastern University, Boston, MA, where I am striving to deepen my knowledge in control theory, safety-critical control, optimization, and system stability analysis. I remain committed to the pursuit of innovative solutions to engineering challenges and hope to make meaningful contributions to the advancement of knowledge in control theory and applications.
+I received my B.Sc. and M.Sc. degrees in Mechanical Engineering from Fasa University, Fars, Iran, in 2017, and the University of Isfahan, Iran, in 2020, respectively. Currently, I am pursuing my Ph.D. in Electrical Engineering at Northeastern University, Boston, MA, where I am striving to deepen my knowledge in control theory, safety-critical control, optimization, and system stability analysis. I remain committed to the pursuit of innovative solutions to engineering challenges and hope to make meaningful contributions to the advancement of knowledge in control theory and its applications.
 
 Research Interests
 ======
