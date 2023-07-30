@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My publications are listed below. You can also find my publications <b><a href="https://scholar.google.com/citations?hl=en&user=PvSW_5sAAAAJ&view_op=list_works&sortby=pubdate" style="text-decoration:none; color:#2F4F4F">here.</a>
+My publications are listed below. You can also find my publications <b><a href="https://scholar.google.com/citations?hl=en&user=PvSW_5sAAAAJ&view_op=list_works&sortby=pubdate" style="text-decoration:none; color:#2F4F4F">here</a>.
 
 {% include base_path %}
 
