@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.Sc. and M.Sc. degrees in Mechanical Engineering from Fasa University, Fars, Iran, in 2017, and the University of Isfahan, Iran, in 2020, respectively. Currently, I am pursuing my Ph.D. in Electrical Engineering at Northeastern University, Boston, MA, where I am striving to deepen my knowledge in control theory, safety-critical control, optimization, and system stability analysis. I remain committed to the pursuit of innovative solutions to engineering challenges and hope to make meaningful contributions to the advancement of knowledge in control theory and its applications.
+I am currently in my second year of the Ph.D. program in Electrical Engineering at Northeastern University, where I work as a research assistant under the supervision of Professor Laurent Lessard. Additionally, I hold a B.Sc. and an M.Sc. in Mechanical Engineering. My research interests at present encompass control theory, safety-critical control, optimization, and system stability analysis.
 
 Research Interests
 ======
