@@ -18,7 +18,4 @@ Address
 Email
 ======
 alipour.mld@gmail.com <br> alipourshahraki.m@northeastern.edu
-  
-#Phone
-#======
 
