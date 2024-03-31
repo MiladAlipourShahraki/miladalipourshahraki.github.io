@@ -13,5 +13,5 @@ I am currently in my second year of the Ph.D. program in Electrical Engineering 
 ## Research Interests
 * Control Theory and Applications <br>
 * Adaptive Learning Control and Optimization <br>
-Safety-Critical Control and Stability Analysis <br>
-Artificial Intelligence and Machine Learning <br>
+* Safety-Critical Control and Stability Analysis <br>
+* Artificial Intelligence and Machine Learning <br>
