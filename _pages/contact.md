@@ -11,7 +11,7 @@ My contact information is below.
 
 {% include base_path %}
 
-**Address** \
+__Address__ \
 70 Forsyth Street, Boston, MA 02115, USA
 
 Email
