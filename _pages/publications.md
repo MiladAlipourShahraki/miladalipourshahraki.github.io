@@ -11,10 +11,8 @@ My publications are listed below. You can also find my publications <b><a href="
 
 {% include base_path %}
 
-Active fractional-order sliding mode control of flexible spacecraft under actuators saturation
-======
+0. **Active fractional-order sliding mode control of flexible spacecraft under actuators saturation** \
 **Published** in *Journal of Sound and Vibration*, 2022
-
 **Recommended Citation:** **Milad Alipour**, Maryam Malekzadeh, and Alireza Ariaei, “Active fractional-order sliding mode control of flexible spacecraft under actuators saturation,” Journal of Sound and Vibration, 2022. DOI: <b><a href="https://doi.org/10.1016/j.jsv.2022.117110" style="text-decoration:none; color:#2F4F4F">https://doi.org/10.1016/j.jsv.2022.117110</a>.
 
 Practical fractional-order nonsingular terminal sliding mode control of spacecraft
