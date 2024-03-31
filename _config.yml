@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Milad Alipour Shahraki"
 title_separator          : "-"
-name                     : &name font-size: 14pt "Milad Alipour Shahraki"
+name                     : &name "Milad Alipour Shahraki"
 description              : &description "personal description"
 url                      : https://miladalipourshahraki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
