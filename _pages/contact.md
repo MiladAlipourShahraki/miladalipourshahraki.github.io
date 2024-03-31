@@ -14,8 +14,6 @@ My contact information is below.
 __Address__ \
 70 Forsyth Street, Boston, MA 02115, USA
 
-======
-
 __Email__ \
 alipour.mld@gmail.com <br> alipourshahraki.m@northeastern.edu
 
