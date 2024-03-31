@@ -11,9 +11,9 @@ My contact information is below.
 
 {% include base_path %}
 
-### __Address__ \
+## Address
 70 Forsyth Street, Boston, MA 02115, USA
 
-### __Email__ \
+## Email
 alipour.mld@gmail.com <br> alipourshahraki.m@northeastern.edu
 
