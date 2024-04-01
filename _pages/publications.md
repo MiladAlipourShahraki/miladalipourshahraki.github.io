@@ -11,14 +11,18 @@ My publications are listed below. You can also find my publications <b><a href="
 
 {% include base_path %}
 
+## Conference Papers
+
 0. **Spacecraft Attitude Control Under Reaction Wheel Constraints Using Control Lyapunov and Control Barrier Functions** \
 Milad Alipour Shahraki and Laurent Lessard, Submitted to *IEEE Conference on Decision and Control (CDC)*, 2024.
 
-2. **Active Fractional-Order Sliding Mode Control of Flexible Spacecraft Under Actuators Saturation** \
+## Journal Papers
+
+0. **Active Fractional-Order Sliding Mode Control of Flexible Spacecraft Under Actuators Saturation** \
 Milad Alipour, Maryam Malekzadeh, and Alireza Ariaei, Published in *Journal of Sound and Vibration*, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0022460X22003182)
 
-3. **Practical Fractional-Order Nonsingular Terminal Sliding Mode Control of Spacecraft** \
+1. **Practical Fractional-Order Nonsingular Terminal Sliding Mode Control of Spacecraft** \
 Milad Alipour, Maryam Malekzadeh, and Alireza Ariaei, Published in *ISA Transactions*, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0019057821005437)
 
-4. **Output Feedback Adaptive Aontrol of Dynamically Positioned Surface Vessels: A Disturbance Observer-Based Control Approach** \
+2. **Output Feedback Adaptive Aontrol of Dynamically Positioned Surface Vessels: A Disturbance Observer-Based Control Approach** \
 Mohamadreza Homayounzade and Milad Alipour, Published in *International Journal of Robotics and Automation*, 2019. [Link](https://www.actapress.com/PaperInfo.aspx?paperId=46283)
