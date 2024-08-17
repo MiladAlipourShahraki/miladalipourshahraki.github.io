@@ -14,7 +14,7 @@ My publications are listed below. You can also find my publications <b><a href="
 ## Conference Papers
 
 0. **Spacecraft Attitude Control Under Reaction Wheel Constraints Using Control Lyapunov and Control Barrier Functions** \
-Milad Alipour Shahraki and Laurent Lessard, Submitted to *IEEE Conference on Decision and Control (CDC)*, 2024.
+Milad Alipour Shahraki and Laurent Lessard, To Be Submitted to *The American Control Conference (ACC)*.
 
 ## Journal Papers
 
