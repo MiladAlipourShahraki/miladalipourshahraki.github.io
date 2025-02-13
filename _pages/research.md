@@ -23,7 +23,7 @@ My current research revolves around the fascinating field of safety-critical con
 -->
 
 {% raw %}
-<div style="width: 900px; height: 500px; overflow: hidden; border: 1px solid black; position: relative;">
+<div style="width: 950px; height: 500px; overflow: hidden; border: 1px solid black; position: relative;">
   <iframe src="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" style="
     width: 1700px;  /* Scale width */
     height: 900px;  /* Scale height */
