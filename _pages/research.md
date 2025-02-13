@@ -13,13 +13,30 @@ My current research revolves around the fascinating field of safety-critical con
 {% raw %}
 <iframe src="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" width="1000" height="300"></iframe>
 {% endraw %}
--->
+
 
 {% raw %}
 <div style="width: 600px; height: 400px; overflow: hidden; border: 1px solid black;">
   <iframe src="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" width="100%" height="100%" style="border: none;"></iframe>
 </div>
 {% endraw %}
+-->
+
+{% raw %}
+<div style="width: 600px; height: 400px; overflow: hidden; border: 1px solid black; position: relative;">
+  <iframe src="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" style="
+    width: 1200px;  /* Scale width */
+    height: 800px;  /* Scale height */
+    transform: scale(0.5); /* Adjust scale (1 = original size, 0.5 = half size) */
+    transform-origin: top left;
+    border: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+  "></iframe>
+</div>
+{% endraw %}
+
 
 
 {% include base_path %}
