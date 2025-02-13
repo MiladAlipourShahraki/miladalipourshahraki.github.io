@@ -37,7 +37,12 @@ My current research revolves around the fascinating field of safety-critical con
 </div>
 {% endraw %}
 
-[View Animation]([animation.html](https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html)){:target="_blank"}
+[View Animation]([animation.html](https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html)){:target="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html"}
+
+{% raw %}
+<a href="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" target="_blank">View Animation</a>
+{% endraw %}
+
 
 
 {% include base_path %}
