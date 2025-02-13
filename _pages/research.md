@@ -38,7 +38,7 @@ My current research revolves around the fascinating field of safety-critical con
 {% endraw %}
 
 {% raw %}
-To view the animation in a new tab click <b><a href="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" target="_blank" style="text-decoration:none; color:#2F4F4F">here</a>.</p>
+To view the animation in a new tab click <b><a href="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" target="_blank" style="text-decoration:none; color:#2F4F4F">here</a>.
 {% endraw %}
 
 {% include base_path %}
