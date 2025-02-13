@@ -27,7 +27,7 @@ My current research revolves around the fascinating field of safety-critical con
   <iframe src="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" style="
     width: 1200px;  /* Scale width */
     height: 800px;  /* Scale height */
-    transform: scale(0.3); /* Adjust scale (1 = original size, 0.5 = half size) */
+    transform: scale(0.7); /* Adjust scale (1 = original size, 0.5 = half size) */
     transform-origin: top left;
     border: none;
     position: absolute;
