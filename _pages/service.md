@@ -22,4 +22,4 @@ My professional experience and service are listed below.
 
 ## Conference Reviewer
 
-<a href="https://sites.google.com/umich.edu/l4dc2025/" style="text-decoration:none; color:#2F4F4F">L4DC 2025: 7th Annual Learning for Dynamics and Control Conference (**1**) <br>
+<a href="https://sites.google.com/umich.edu/l4dc2025/" style="text-decoration:none; color:#2F4F4F">L4DC 2025: 7th Annual Learning for Dynamics and Control Conference</a> (**1**) <br>
