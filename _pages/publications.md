@@ -11,13 +11,6 @@ My publications are listed below. You can also find my publications <b><a href="
 
 {% include base_path %}
 
-## Conference Papers
-
-0. **Spacecraft Attitude Control Under Reaction Wheel Constraints Using Control Lyapunov and Control Barrier Functions** \
-Milad Alipour Shahraki and Laurent Lessard, Accepted in *The American Control Conference (ACC)*, 2025. [Link](https://doi.org/10.48550/arXiv.2409.19936)<br>{% raw %}
-<a href="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" target="_blank">View Animation</a>
-{% endraw %}
-
 ## Journal Papers
 
 0. **Practical Fractional-Order Nonsingular Terminal Sliding Mode Control of Spacecraft** \
@@ -28,3 +21,10 @@ Milad Alipour, Maryam Malekzadeh, and Alireza Ariaei, Published in *Journal of S
 
 2. **Output Feedback Adaptive Aontrol of Dynamically Positioned Surface Vessels: A Disturbance Observer-Based Control Approach** \
 Mohamadreza Homayounzade and Milad Alipour, Published in *International Journal of Robotics and Automation*, 2019. [Link](https://www.actapress.com/PaperInfo.aspx?paperId=46283)
+
+## Conference Papers
+
+0. **Spacecraft Attitude Control Under Reaction Wheel Constraints Using Control Lyapunov and Control Barrier Functions** \
+Milad Alipour Shahraki and Laurent Lessard, Accepted in *The American Control Conference (ACC)*, 2025. [Link](https://doi.org/10.48550/arXiv.2409.19936)<br>{% raw %}
+<a href="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" target="_blank">View Animation</a>
+{% endraw %}
