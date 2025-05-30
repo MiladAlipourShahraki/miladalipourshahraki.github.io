@@ -23,3 +23,4 @@ My professional experience and service are listed below.
 ## Conference Reviewer
 
 <a href="https://sites.google.com/umich.edu/l4dc2025/" style="text-decoration:none; color:#2F4F4F">L4DC 2025: 7th Annual Learning for Dynamics and Control Conference</a> (**1**) <br>
+<a href="https://cdc2025.ieeecss.org/" style="text-decoration:none; color:#2F4F4F">CDC 2025: 64th IEEE Conference on Decision and Control</a> (**1**) <br>
