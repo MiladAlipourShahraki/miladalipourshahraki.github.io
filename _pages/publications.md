@@ -25,6 +25,6 @@ Mohamadreza Homayounzade and Milad Alipour, Published in *International Journal 
 ## Conference Papers
 
 0. **Spacecraft Attitude Control Under Reaction Wheel Constraints Using Control Lyapunov and Control Barrier Functions** \
-Milad Alipour Shahraki and Laurent Lessard, Accepted in *The American Control Conference (ACC)*, 2025. [Link](https://doi.org/10.48550/arXiv.2409.19936)<br>{% raw %}
+Milad Alipour Shahraki and Laurent Lessard, Published in *2025 American Control Conference (ACC)*, 2025. [Link](https://doi.org/10.48550/arXiv.2409.19936)<br>{% raw %}
 <a href="https://miladalipourshahraki.github.io/side_by_side_spacecraft_attitude_control_animation.html" target="_blank">View Animation</a>
 {% endraw %}
