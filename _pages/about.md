@@ -12,7 +12,7 @@ I am a Ph.D. candidate in Electrical Engineering at Northeastern University, adv
 
 ## Research Interests
 * Nonlinear and Optimal Control
-* Approximate Dynamic Programming and HJB-based Control
+* Approximate Dynamic Programming and HJB-Based Control
 * Safety-Critical Control and Stability Analysis of Nonlinear Systems
-* Real-time Convex Optimization and Model Predictive Control
+* Real-Time Convex Optimization and Model Predictive Control
 * Learning-based and Adaptive Control
