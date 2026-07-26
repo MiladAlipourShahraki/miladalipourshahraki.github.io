@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My current research revolves around the fascinating field of safety-critical control, where I focus on utilizing Control Lyapunov Functions (CLFs) and Control Barrier Functions (CBFs) for nonlinear systems. The integration of CLFs and CBFs offers robust and reliable control strategies that can ensure system stability and safety in real-time applications. The significance of safety-critical control lies in its applicability to a wide range of systems, including autonomous vehicles, aerospace systems, and medical devices, where ensuring stability and safety are of paramount importance.
+My research develops controllers for nonlinear systems that are both near-optimal and provably safe. The central problem is that optimizing performance and enforcing safety pull in different directions: an optimal policy will happily drive the state into an unsafe region if the cost rewards it. My dissertation addresses this with a two-stage framework that computes an approximate value function offline (via sum-of-squares and policy iteration on the Hamilton-Jacobi-Bellman equation) and then enforces safety online through a control-barrier-function quadratic program. This decouples performance from constraint enforcement: the safe set can be modified online without recomputing the value function. I have also designed real-time CLF/CBF-QP controllers for spacecraft attitude control under reaction-wheel torque and momentum limits, treating state and input bounds as hard constraints. These methods matter wherever a system must act efficiently while respecting hard safety limits, such as aerospace and autonomous systems.
 
 <!---
 {% raw %}
