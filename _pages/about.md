@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in my second year of the Ph.D. program in Electrical Engineering at Northeastern University, where I work as a research assistant under the supervision of Professor Laurent Lessard. Additionally, I hold a B.Sc. and an M.Sc. in Mechanical Engineering. My research interests at present encompass control theory, safety-critical control, optimization, and system stability analysis.
+I am a Ph.D. candidate in Electrical Engineering at Northeastern University, advised by Professor Laurent Lessard. My dissertation, Safe Near-Optimal Control of Nonlinear Systems, develops methods that combine approximate-HJB optimal control with control-barrier-function safety constraints. I previously earned a B.Sc. and an M.Sc. in Mechanical Engineering. My research centers on nonlinear and optimal control, safety-critical control (CBFs, CLFs, MPC), and real-time convex optimization.
 
 ## Research Interests
-* Control Theory and Applications
-* Adaptive Learning Control and Optimization
-* Safety-Critical Control and Stability Analysis
-* Artificial Intelligence and Machine Learning
+* Nonlinear and Optimal Control
+* Approximate Dynamic Programming and HJB-based Control
+* Safety-Critical Control and Stability Analysis of Nonlinear Systems
+* Real-time Convex Optimization and Model Predictive Control
+* Learning-based and Adaptive Control
